@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you reference this work, please cite it as below."
+authors:
+  - family-names: Tesfaye
+    given-names: Sineshaw
+    email: steswfaye4@student.gsu.edu
+    affiliation: Georgia State University
+title: "Advanced Modular Cryptocurrency Trading & Analytics Platform"
+version: 1.0.0
+date-released: 2026-02-14
+url: "https://github.com/shawtes/coinbase-trading-portfolio"
+license: Custom Source-Available License
+keywords:
+  - machine learning
+  - cryptocurrency trading
+  - ensemble methods
+  - quantitative finance
+  - risk management
+  - GARCH volatility
+  - stacking regressor
+  - VaR analysis
+  - Kelly Criterion
+  - futures trading
+  - sentiment analysis
+  - backtesting
+repository-code: "https://github.com/shawtes/coinbase-trading-portfolio"
+abstract: |
+  Advanced machine learning trading platform that combines quantitative finance, 
+  real-time data processing, and ensemble modeling to achieve 86% of cryptocurrency 
+  symbols with F1-score ≥ 0.90. Features stacking ensemble (Random Forest + XGBoost + SVR), 
+  GARCH volatility modeling, VaR/CVaR risk metrics, Kelly Criterion position sizing, 
+  and real-time WebSocket feeds from Coinbase Advanced Trade API.
