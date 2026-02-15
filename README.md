@@ -24,7 +24,7 @@ An end-to-end ML trading platform that scans **370+ cryptocurrency pairs** on Co
 
 ## Project Overview
 
-This platform was designed and built from scratch as a graduate research project. It combines **machine learning**, **quantitative finance**, and **full-stack web development** into a single production-grade system that connects to the Coinbase Advanced Trade API for live autonomous trading.
+This platform was designed and built from scratch as a  research project. It combines **machine learning**, **quantitative finance**, and **full-stack web development** into a single production-grade system that connects to the Coinbase Advanced Trade API for live autonomous trading.
 
 The system is **not a toy or prototype** -- it runs against real market data, executes real trades, and implements institutional-grade risk controls including Value-at-Risk, GARCH volatility modeling, and Kelly Criterion position sizing.
 
