@@ -14,7 +14,7 @@
 
 An end-to-end ML trading platform that scans **370+ cryptocurrency pairs** on Coinbase, predicts price direction with a **stacking ensemble**, manages risk with **GARCH-calibrated stops**, and executes trades autonomously -- all through a real-time **11-page React dashboard**.
 
-**Sineshaw (Shaw) Mesfin Tesfaye** | MS Computer Science, Georgia State University
+**Sineshaw (Shaw) Mesfin Tesfaye** | BS Computer Science, Georgia State University
 
 [Read the Research Paper (PDF)](Advanced%20Modular%20Cryptocurrency%20Trading%20%26%20Analytics%20Platform%3A%20A%20Comprehensive%20Mathematical%20and%20Implementation%20Framework.pdf)
 
